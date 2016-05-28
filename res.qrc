@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file alias="mark_png">mark.png</file>
+        <file alias="main_png">main.png</file>
+    </qresource>
+</RCC>
